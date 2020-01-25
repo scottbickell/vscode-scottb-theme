@@ -372,7 +372,7 @@
 				"comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "normal",
 				"foreground": "#abb0b6"
 			}
 		},
