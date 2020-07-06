@@ -21,7 +21,7 @@
 		"dropdown.background": "#ffffff",
 		"dropdown.border": "#dcdee1",
 		"dropdown.foreground": "#666666",
-		"editor.background": "#fafafa",
+		"editor.background": "#fcfcfc",
 		"editor.findMatchBackground": "#ff99400d",
 		"editor.findMatchBorder": "#ff9940",
 		"editor.findMatchHighlightBackground": "#ff99400d",
@@ -371,7 +371,7 @@
 				"comment"
 			],
 			"settings": {
-				"fontStyle": "normal",
+				"fontStyle": "",
 				"foreground": "#abb0b6"
 			}
 		},
